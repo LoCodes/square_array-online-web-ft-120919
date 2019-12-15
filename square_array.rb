@@ -1,4 +1,4 @@
 def square_array(array)
   new_array = []  
-  square_array.each do |# your code here
+  array.each do | num |# your code here
 end
